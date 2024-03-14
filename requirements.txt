@@ -1,2 +1,9 @@
 tensorflow
+pydot
 bs4
+beautifulsoup4
+tensorflow-datasets
+matplotlib
+numpy
+pandas
+keras
